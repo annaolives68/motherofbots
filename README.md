@@ -1,2 +1,0 @@
-# motherofbots
-keep MOB online
