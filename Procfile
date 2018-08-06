@@ -1,1 +1,0 @@
-woker: node bot.js
